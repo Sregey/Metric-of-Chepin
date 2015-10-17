@@ -1,0 +1,9 @@
+C:\Users\a s u s\AppData\Local\Temporary Projects\MetricChepina\bin\Debug\MetricChepina.exe
+C:\Users\a s u s\AppData\Local\Temporary Projects\MetricChepina\bin\Debug\MetricChepina.pdb
+C:\Users\a s u s\AppData\Local\Temporary Projects\MetricChepina\obj\x86\Debug\MetricChepina.exe
+C:\Users\a s u s\AppData\Local\Temporary Projects\MetricChepina\obj\x86\Debug\MetricChepina.pdb
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\obj\x86\Debug\MetricChepina.exe
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\obj\x86\Debug\MetricChepina.pdb
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\bin\Debug\MetricChepina.exe
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\bin\Debug\MetricChepina.pdb
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\obj\x86\Debug\MetricChepina.csprojResolveAssemblyReference.cache

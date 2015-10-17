@@ -1,0 +1,4 @@
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\bin\Release\MetricChepina.exe
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\bin\Release\MetricChepina.pdb
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\obj\x86\Release\MetricChepina.exe
+D:\БГУИР\Метрология\MetricChepina\MetricChepina\obj\x86\Release\MetricChepina.pdb
